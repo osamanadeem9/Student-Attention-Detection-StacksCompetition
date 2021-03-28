@@ -3,14 +3,11 @@
 
 Based on the problem statement "How to create an online classroom experience where student behaviour can be monitored in real-time?". Submitted to StacksHack4Impact.
 
-## Features
-  * Frontend built in React/React native
-  * Backend part uses Node.js and Express
-  * Can be used on Android, iOS and web
-  * Understands user messages and intentions using NLP (Natural Language Processing)
-  * Uses REST APIs to provide relevant information to user
-  * Deployed on Heroku
-
+## High Level Overview
+  * Uses Face and Gaze detector to determine Student availability/attentiveness.
+  * Deep learning models are used for the facial emotional analysis of the student in realtime/from video.
+  * Generates a raw report on frame by frame analysis
+  
 ## Using the app
 
 The application/project can be run on any Windows/Linux running device using python. Make sure to follow the steps below:
