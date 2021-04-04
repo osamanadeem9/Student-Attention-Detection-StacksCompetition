@@ -1,7 +1,7 @@
 # VIGILANCE:
 ## Our Student attention detection module
 
-Based on the problem statement "How to create an online classroom experience where student behaviour can be monitored in real-time?". It's an initial prototype, with a vision of high scalability. Submitted to StacksHack4Impact.
+Based on the problem statement "How to create an online classroom experience where student behaviour can be monitored in real-time?". It's an initial prototype, with a vision of high scalability. Submitted to StacksHack4Impact, and <b>were announced Runner-ups (2nd Position) at the hackathon</b>. <a href="https://www.linkedin.com/posts/stacks-pakistan_stackshack4impact-activity-6783103056239304704-RNpA">Link</a>
 
 ## High Level Overview
   * Uses Face and Gaze detector to determine Student availability/attentiveness.
