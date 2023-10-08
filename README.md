@@ -17,4 +17,4 @@ The application/project can be run on any Windows/Linux running device using pyt
 
 ## Output
 
-The working demo of Vigilance can be seen <a href = "https://drive.google.com/file/d/1C9aUqKphVaOyM5qaA9ycCoZ95L4ag81E/view?usp=sharing">here</a>:
+The working demo of Vigilance can be seen <a href = "https://drive.google.com/file/d/1bSe1jPE_ahDKvxGTjymriboka7_29E4d/view?usp=drive_link">here</a>:
